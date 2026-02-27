@@ -14,11 +14,18 @@ app.use(express.json());
 
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
+// --- Health Check Route ---
+app.get("/", (req, res) => {
+  res.send("server is running");
+});
+
 // --- Helper: Load Knowledge Base ---
 const getKnowledgeBase = () => {
   try {
     const filePath = path.join(process.cwd(), "knowledge_base.txt");
-    return fs.existsSync(filePath) ? fs.readFileSync(filePath, "utf8") : "No data.";
+    return fs.existsSync(filePath)
+      ? fs.readFileSync(filePath, "utf8")
+      : "No data.";
   } catch (err) {
     return "Error reading file.";
   }
@@ -31,8 +38,11 @@ app.post("/api/chat", async (req, res) => {
     const contextData = getKnowledgeBase();
     const chatCompletion = await groq.chat.completions.create({
       messages: [
-        { role: "system", content: `Use this data: ${contextData}. Limit to 50 words.` },
-        ...messages
+        {
+          role: "system",
+          content: `Use this data: ${contextData}. Limit to 50 words.`,
+        },
+        ...messages,
       ],
       model: "llama-3.3-70b-versatile",
     });
@@ -59,13 +69,18 @@ if (!process.env.VERCEL) {
 
         const response = await groq.chat.completions.create({
           messages: [
-            { role: "system", content: `Use this data: ${contextData}. Limit to 50 words.` },
-            { role: "user", content: input }
+            {
+              role: "system",
+              content: `Use this data: ${contextData}. Limit to 50 words.`,
+            },
+            { role: "user", content: input },
           ],
           model: "llama-3.3-70b-versatile",
         });
 
-        console.log(`\n\x1b[33mBot:\x1b[0m ${response.choices[0].message.content}\n`);
+        console.log(
+          `\n\x1b[33mBot:\x1b[0m ${response.choices[0].message.content}\n`,
+        );
         ask();
       });
     };
@@ -76,4 +91,9 @@ if (!process.env.VERCEL) {
 }
 
 const PORT = process.env.PORT || 8080;
+// --- 404 Handler ---
+app.use((req, res) => {
+  res.status(404).send("404 Not Found");
+});
+
 app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
