@@ -1,0 +1,71 @@
+===========================================================
+GENERAL INFORMATION: rana.net.in
+===========================================================
+Founder: Vaibhav Rana
+Mission: Ensuring technology is a catalyst for startups, not a hurdle. 
+Focus: High-impact products, scalability, and long-term tech partnerships.
+Locations: Delhi and Pune, India.
+Contact: +91 9311650067 | vaibhav.1098@hotmail.com
+Address: Nagad Computer Wholesalers, Shikrapur, Maharashtra 412208, India.
+
+===========================================================
+CORE SERVICE PILLARS
+===========================================================
+
+1. WEBSITE DEVELOPMENT
+----------------------
+- Specializations: Corporate Sites, E-commerce, SaaS, Portfolios, Landing Pages, LMS, Custom CRM.
+- Features: Advanced Admin Panels, Secure Payment (Razorpay/Stripe), JWT/OAuth Auth, SEO-friendly architecture.
+- Experience: 5+ years; delivery often within 1 week.
+
+2. MOBILE APP DEVELOPMENT
+-------------------------
+- Platforms: Android and iOS (Cross-platform via React Native/Flutter).
+- App Types: Booking, Chatting, E-commerce, Social Media, Quiz, Inventory, Food Ordering.
+- Key Features: Real-time notifications, Offline functionality (caching), Cloud integration.
+
+3. SEO & DIGITAL MARKETING
+--------------------------
+- Services: Keyword Research, On-Page/Off-Page SEO, Technical Audits, Competitor Analysis.
+- Focus: Sustainable white-hat techniques and conversion optimization.
+
+4. GRAPHIC DESIGN & BRANDING
+----------------------------
+- Deliverables: Logo Design, Brand Style Guides, Social Media Kits, UI/UX Prototyping, Print-ready designs.
+
+5. AI INTEGRATION & AUTOMATION
+------------------------------
+- Solutions: AI Chatbots (24/7), Workflow Automation, Generative AI tools, Predictive Analytics.
+- Specialized Feature: Automated AI Blog Publishing (Research, Write, and Schedule).
+
+6. TESTING & MAINTENANCE
+------------------------
+- Testing: Automated Regression (Cypress/Selenium), Load Testing, Security Scanning (XSS/SQLi).
+- Maintenance: Zero-cost security updates, Cloud backups, 24/7 Uptime monitoring.
+
+===========================================================
+TECHNICAL STACK
+===========================================================
+- Frontend: React.jsx, NEXT.js, Tailwind CSS, Redux Toolkit.
+- Backend: Node.js, Express.js, Prisma.
+- Database: MongoDB (NoSQL), MySQL, Firebase.
+- Full Stack Preference: MERN Stack (MongoDB, Express, React, Node).
+
+===========================================================
+THE "RANA" PROCESS (5-STEP ROADMAP)
+===========================================================
+1. PLANNING: Define goals, sitemap, and research requirements.
+2. DESIGN: UI/UX Focus—Wireframes and high-fidelity mockups.
+3. LAUNCH: Testing, QA, and deployment to live servers.
+4. SEO: Post-launch speed optimization and meta-tag adjustments.
+5. MAINTENANCE: Ongoing support, updates, and performance monitoring.
+
+===========================================================
+PRICING & OFFERS
+===========================================================
+- .com Domain: ₹1000 / year
+- .in Domain: ₹500 / year
+- SSL Certificate: Free
+- Maintenance: Complimentary tier for all project clients.
+- Partnership Model: Not just an agency; a long-term tech ally with lifetime support.
+===========================================================
