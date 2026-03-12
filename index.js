@@ -71,7 +71,7 @@ if (!process.env.VERCEL) {
           messages: [
             {
               role: "system",
-              content: `Use this data: ${contextData}. Limit to 50 words.`,
+              content: `Use this data: ${contextData}. Limit to 30 words or less.`,
             },
             { role: "user", content: input },
           ],

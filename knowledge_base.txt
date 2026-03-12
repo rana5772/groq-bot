@@ -44,6 +44,45 @@ CORE SERVICE PILLARS
 - Maintenance: Zero-cost security updates, Cloud backups, 24/7 Uptime monitoring.
 
 ===========================================================
+PORTFOLIO & PARTNER PROJECTS
+===========================================================
+
+UPFOUND AI (https://upfound.ai)
+- Description: AI-based hiring platform.
+- Details: AI-powered interview solutions for tech and non-tech roles.
+- Key Points: 5-minute setup, automated screening, data-driven scoring, cost reduction.
+
+HSJN FINWISDOM (https://hsjnfinwisdom.com)
+- Description: Online stock market courses.
+- Details: Stock market education and Zerodha Demat account services.
+- Key Points: Pro trading courses, authorized Zerodha partner, trading merchandise, YouTube education.
+
+OPTIVUE (https://optivue.in)
+- Description: ERP platform for manufacturers.
+- Details: Smart ERP to streamline operations and automate reporting.
+- Key Points: Real-time production tracking, automated PDF/Excel reports, 24/7 AI order assistant.
+
+USE WAVE (https://usewave.co)
+- Description: Autopilot Instagram lead generator.
+- Details: Cloud-based tool for automated Instagram outreach and personalized DMs.
+- Key Points: Guaranteed results (1 client in 30 days or pay nothing), safe infrastructure, 60 DMs daily.
+
+DAIN MART (https://dainmart.com)
+- Description: Online clothing and general store.
+- Details: Multi-category e-commerce platform (Fashion, Tech, Beauty, Grocery).
+- Key Points: Global brands, smart home tech, seamless flight bookings, doorstep grocery delivery.
+
+E-COMMERCE TANK (https://ecommercetank.in)
+- Description: Amazon growth manager.
+- Details: Account management and growth for Amazon, Flipkart, Myntra, and Nykaa.
+- Key Points: 10X sales growth strategies, 500+ successful brands, 99% success rate.
+
+KREATIVE DEALS (https://kreativedeals.com)
+- Description: Corporate gifting solutions.
+- Details: Merchandising and loyalty fulfillment for premium brands.
+- Key Points: 19,000+ pin codes covered, 300+ brand partners, Fortune 500 trusted partner.
+
+===========================================================
 TECHNICAL STACK
 ===========================================================
 - Frontend: React.jsx, NEXT.js, Tailwind CSS, Redux Toolkit.
