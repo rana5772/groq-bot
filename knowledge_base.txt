@@ -1,110 +1,80 @@
 ===========================================================
 GENERAL INFORMATION: rana.net.in
 ===========================================================
-Founder: Vaibhav Rana
+Founder: Vaibhav Rana 
 Mission: Ensuring technology is a catalyst for startups, not a hurdle. 
-Focus: High-impact products, scalability, and long-term tech partnerships.
-Locations: Delhi and Pune, India.
-Contact: +91 9311650067 | vaibhav.1098@hotmail.com
-Address: Nagad Computer Wholesalers, Shikrapur, Maharashtra 412208, India.
+Focus: High-impact products, scalability, and long-term tech partnerships. 
+Locations: Delhi and Pune, India. 
+Contact: +91 9311650067 | vaibhav.1098@hotmail.com 
+Address: Nagad Computer Wholesalers, Shikrapur, Maharashtra 412208, India. 
 
 ===========================================================
-CORE SERVICE PILLARS
+CORE SERVICE PILLARS & PRICING
 ===========================================================
 
 1. WEBSITE DEVELOPMENT
 ----------------------
-- Specializations: Corporate Sites, E-commerce, SaaS, Portfolios, Landing Pages, LMS, Custom CRM.
-- Features: Advanced Admin Panels, Secure Payment (Razorpay/Stripe), JWT/OAuth Auth, SEO-friendly architecture.
-- Experience: 5+ years; delivery often within 1 week.
+* PORTFOLIO WEBSITE: High-speed, SEO-ready responsive design for agencies, consultants, doctors, or startups.
+  - Features: Google Search Console setup, lightning-fast load speed.
+  - Cost: Rs 5,000/- (Rs 500 extra per page).
+  - Timeline: 5 days.
+* E-COMMERCE WEBSITE PLANS:
+  - STARTER (Essential Plan): Rs 11,000/- | 10 days timeline | 1-month free maintenance.
+    - Features: Add to cart without login, Star rating, Basic history tracking, Basic meta tags, Standard management, Razorpay/UPI. 
+    - Scalability: 5 Lakh users.
+  - ADVANCED (Pro Plan): Rs 16,000/- | 15 days timeline | 3-months free maintenance.
+    - Features: Written comments, Cancel order (user dashboard), Detailed status updates (Packed/Shipped/Out for Delivery), AI SEO optimization, Advanced analytics, Credit Cards/Other payments, Next-gen optimization (WebP/Lazy).
+    - Scalability: 10 Lakh users.
+* GENERAL SPECIALIZATIONS: Corporate Sites, SaaS, LMS, Custom CRM. 
+* TECH STACK: React.jsx, NEXT.js, Tailwind CSS, Node.js, Express.js, Prisma, MongoDB, MySQL, Firebase. 
 
 2. MOBILE APP DEVELOPMENT
 -------------------------
-- Platforms: Android and iOS (Cross-platform via React Native/Flutter).
-- App Types: Booking, Chatting, E-commerce, Social Media, Quiz, Inventory, Food Ordering.
-- Key Features: Real-time notifications, Offline functionality (caching), Cloud integration.
+* PRICING: Starting from Rs 16,000/-.
+* PLATFORMS: Cross-platform via React Native/Flutter (Compatible for both Android and iOS). 
+* TIMELINE: 2 weeks.
+* KEY FEATURES: 
+  - Easy Updates: Ability to update product lists easily using an admin panel.
+  - Push Notifications: Instant updates, promotions, and alerts sent directly to devices. 
+* SPECIALIZED APP TYPES:
+  - 🍔 FOOD DELIVERY APP: Interactive digital menu, customizable orders (add-ons/instructions), Live GPS order tracking, One-Click Razorpay UPI, and Simple Order Management for restaurants.
+  - 🛍️ E-COMMERCE APP: Guest Checkout (add to cart without login), Advanced Product Reviews (Star + Written), Full Order Control (Status updates/Cancellations), Multi-Payment Suite, and Blazing Fast Performance (WebP/Lazy Loading).
+* SCALABLE ARCHITECTURE: Built to handle high traffic effortlessly (optimized for up to 1M+ users).
 
-3. SEO & DIGITAL MARKETING
+3. SPECIAL ADD-ON PLANS
+-----------------------
+* WEB HOSTING & DOMAIN INTEGRATION: Connecting domain to server + Free SSL. (Rs 1,000/- | 1 day). 
+* AI CHATBOT INTEGRATION: Custom knowledge base + Lead generation flow + WhatsApp/Website deployment. (Rs 2,000/- | 2 days). 
+* AUTOMATIC AI BLOGS SETUP: Hands-free system; researches, writes 1,000+ word SEO articles, and auto-publishes weekly. (Rs 3,000/- | 3 days). 
+* PLAY STORE DEPLOYMENT PACKAGE: Handling Google Play and Apple App Store submissions, screenshots, and metadata. (Rs 4,000/- | 4-6 weeks).
+
+4. SEO & DIGITAL MARKETING 
 --------------------------
-- Services: Keyword Research, On-Page/Off-Page SEO, Technical Audits, Competitor Analysis.
-- Focus: Sustainable white-hat techniques and conversion optimization.
+* SERVICES: Keyword Research, On-Page/Off-Page SEO, Technical Audits, Competitor Analysis. 
+* FOCUS: Sustainable white-hat techniques and conversion optimization. 
 
-4. GRAPHIC DESIGN & BRANDING
-----------------------------
-- Deliverables: Logo Design, Brand Style Guides, Social Media Kits, UI/UX Prototyping, Print-ready designs.
-
-5. AI INTEGRATION & AUTOMATION
-------------------------------
-- Solutions: AI Chatbots (24/7), Workflow Automation, Generative AI tools, Predictive Analytics.
-- Specialized Feature: Automated AI Blog Publishing (Research, Write, and Schedule).
-
-6. TESTING & MAINTENANCE
+5. TESTING & MAINTENANCE 
 ------------------------
-- Testing: Automated Regression (Cypress/Selenium), Load Testing, Security Scanning (XSS/SQLi).
-- Maintenance: Zero-cost security updates, Cloud backups, 24/7 Uptime monitoring.
+* TESTING: Automated Regression (Cypress/Selenium), Load Testing, Security Scanning (XSS/SQLi). 
+* MAINTENANCE: Zero-cost security updates, Cloud backups, 24/7 Uptime monitoring. 
 
 ===========================================================
 PORTFOLIO & PARTNER PROJECTS
 ===========================================================
-
-UPFOUND AI (https://upfound.ai)
-- Description: AI-based hiring platform.
-- Details: AI-powered interview solutions for tech and non-tech roles.
-- Key Points: 5-minute setup, automated screening, data-driven scoring, cost reduction.
-
-HSJN FINWISDOM (https://hsjnfinwisdom.com)
-- Description: Online stock market courses.
-- Details: Stock market education and Zerodha Demat account services.
-- Key Points: Pro trading courses, authorized Zerodha partner, trading merchandise, YouTube education.
-
-OPTIVUE (https://optivue.in)
-- Description: ERP platform for manufacturers.
-- Details: Smart ERP to streamline operations and automate reporting.
-- Key Points: Real-time production tracking, automated PDF/Excel reports, 24/7 AI order assistant.
-
-USE WAVE (https://usewave.co)
-- Description: Autopilot Instagram lead generator.
-- Details: Cloud-based tool for automated Instagram outreach and personalized DMs.
-- Key Points: Guaranteed results (1 client in 30 days or pay nothing), safe infrastructure, 60 DMs daily.
-
-DAIN MART (https://dainmart.com)
-- Description: Online clothing and general store.
-- Details: Multi-category e-commerce platform (Fashion, Tech, Beauty, Grocery).
-- Key Points: Global brands, smart home tech, seamless flight bookings, doorstep grocery delivery.
-
-E-COMMERCE TANK (https://ecommercetank.in)
-- Description: Amazon growth manager.
-- Details: Account management and growth for Amazon, Flipkart, Myntra, and Nykaa.
-- Key Points: 10X sales growth strategies, 500+ successful brands, 99% success rate.
-
-KREATIVE DEALS (https://kreativedeals.com)
-- Description: Corporate gifting solutions.
-- Details: Merchandising and loyalty fulfillment for premium brands.
-- Key Points: 19,000+ pin codes covered, 300+ brand partners, Fortune 500 trusted partner.
+* UPFOUND AI (https://upfound.ai): AI-based hiring platform; automated screening and data-driven scoring. 
+* HSJN FINWISDOM (https://hsjnfinwisdom.com): Online stock market courses; authorized Zerodha partner. 
+* OPTIVUE (https://optivue.in): ERP for manufacturers; real-time production tracking and AI order assistant. 
+* USE WAVE (https://usewave.co): Autopilot Instagram lead generator; automated outreach and DMs. 
+* DAIN MART (https://dainmart.com): Multi-category e-commerce platform (Fashion, Tech, Grocery). 
+* E-COMMERCE TANK (https://ecommercetank.in): Amazon growth manager; 10X sales growth strategies. 
+* KREATIVE DEALS (https://kreativedeals.com): Corporate gifting; 19,000+ pin codes covered. 
 
 ===========================================================
-TECHNICAL STACK
+THE "RANA" PROCESS (5-STEP ROADMAP) 
 ===========================================================
-- Frontend: React.jsx, NEXT.js, Tailwind CSS, Redux Toolkit.
-- Backend: Node.js, Express.js, Prisma.
-- Database: MongoDB (NoSQL), MySQL, Firebase.
-- Full Stack Preference: MERN Stack (MongoDB, Express, React, Node).
-
-===========================================================
-THE "RANA" PROCESS (5-STEP ROADMAP)
-===========================================================
-1. PLANNING: Define goals, sitemap, and research requirements.
-2. DESIGN: UI/UX Focus—Wireframes and high-fidelity mockups.
-3. LAUNCH: Testing, QA, and deployment to live servers.
-4. SEO: Post-launch speed optimization and meta-tag adjustments.
-5. MAINTENANCE: Ongoing support, updates, and performance monitoring.
-
-===========================================================
-PRICING & OFFERS
-===========================================================
-- .com Domain: ₹1000 / year
-- .in Domain: ₹500 / year
-- SSL Certificate: Free
-- Maintenance: Complimentary tier for all project clients.
-- Partnership Model: Not just an agency; a long-term tech ally with lifetime support.
+1. PLANNING: Define goals, sitemap, and research requirements. 
+2. DESIGN: UI/UX Focus—Wireframes and high-fidelity mockups. 
+3. LAUNCH: Testing, QA, and deployment to live servers. 
+4. SEO: Post-launch speed optimization and meta-tag adjustments. 
+5. MAINTENANCE: Ongoing support, updates, and performance monitoring. 
 ===========================================================
