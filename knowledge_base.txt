@@ -4,9 +4,8 @@ GENERAL INFORMATION: rana.net.in
 Founder: Vaibhav Rana 
 Mission: Ensuring technology is a catalyst for startups, not a hurdle. 
 Focus: High-impact products, scalability, and long-term tech partnerships. 
-Locations: Delhi and Pune, India. 
 Contact: +91 9311650067 | vaibhav.1098@hotmail.com 
-Address: Nagad Computer Wholesalers, Shikrapur, Maharashtra 412208, India. 
+Location: Delhi, India.
 
 ===========================================================
 CORE SERVICE PILLARS & PRICING
@@ -56,7 +55,7 @@ CORE SERVICE PILLARS & PRICING
 5. TESTING & MAINTENANCE 
 ------------------------
 * TESTING: Automated Regression (Cypress/Selenium), Load Testing, Security Scanning (XSS/SQLi). 
-* MAINTENANCE: Zero-cost security updates, Cloud backups, 24/7 Uptime monitoring. 
+* MAINTENANCE: Free maintenance is included for the duration of 3 months. This includes critical bug fixes, security updates, cloud backups, and uptime monitoring. Additional maintenance and support services are available after the free maintenance period.
 
 ===========================================================
 PORTFOLIO & PARTNER PROJECTS
